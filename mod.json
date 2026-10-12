@@ -1,12 +1,12 @@
 {
-    "geode": "5.6.1",
+    "geode": "5.11.1",
     "gd": {
         "ios": "2.2081"
     },
     "id": "user.ios120hz",
     "name": "iOS 120Hz",
     "version": "v1.0.0",
-    "developer": "AiAaAl",
+    "developer": "str",
     "description": "Unlocks 120Hz/ProMotion display support for Geometry Dash on iOS",
     "resources": {
         "icons": {
